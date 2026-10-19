@@ -1,0 +1,1 @@
+Muriel Amar, Les fondements théoriques de l’indexation, une approche linguistique, Paris, 2000.
