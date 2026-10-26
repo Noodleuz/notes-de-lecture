@@ -7,3 +7,4 @@
 
  2. La place de l’indexation dans les projets d’intelligence artificielle
 
+Je rajoute du texte pour tester issues et pull request
